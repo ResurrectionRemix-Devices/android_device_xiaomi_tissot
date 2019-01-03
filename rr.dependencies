@@ -15,8 +15,8 @@
     "branch"     : "9.0-4.9"
   },
   {
-    "repository" : "Tissot-Development/android_vendor_xiaomi_tissot",
-    "target_path": "vendor/xiaomi/tissot",
+    "repository" : "Tissot-Havoc-Development/android_proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
     "branch"     : "9.0-4.9"
   }
 ]
