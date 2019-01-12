@@ -15,8 +15,8 @@
     "branch"     : "9.0-4.9"
   },
   {
-    "repository" : "Tissot-Havoc-Development/android_proprietary_vendor_xiaomi",
+    "repository" : "TheMuppets/proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi",
-    "branch"     : "9.0-4.9"
+    "branch"     : "lineage-16.0"
   }
 ]
