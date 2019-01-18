@@ -18,5 +18,11 @@
     "repository" : "TheMuppets/proprietary_vendor_xiaomi",
     "target_path": "vendor/xiaomi",
     "branch"     : "lineage-16.0"
+  },
+{
+    "remote": "los",
+    "repository": "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-16.0"
   }
 ]
