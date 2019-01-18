@@ -5,7 +5,7 @@
    "branch"     : "lineage-15.1"
   },
   {
-    "repository" : "android_device_xiaomi_msm8953-common",
+    "repository" : "Tissot-Development/android_device_xiaomi_msm8953-common",
     "target_path": "device/xiaomi/msm8953-common",
     "branch"     : "9.0-4.9"
   },
